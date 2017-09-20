@@ -9,4 +9,4 @@ You will need to install a Userscript extension - these ones I tested locally wi
 * [Violentmonkey - Chrome Web Store](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)
 * [Greasemonkey :: Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) 
 
-Once installed, open [](./src/vscode-protocol-insider.user.js) - and install the script. To turn it off, disable it via the extension
+Once installed, open [vscode-protocol-insider.user.js](./src/vscode-protocol-insider.user.js) - and install the script. To turn it off, disable it via the extension
