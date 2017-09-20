@@ -2,7 +2,7 @@
 
 Changes the protocol on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/) ![install](./imgs/install-btn.png) button from `vscode` to `vscode-insiders`.
 
-## installation
+## Installation
 
 You will need to install a Userscript extension - these ones I tested locally with success:
 * [Tampermonkey - Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
